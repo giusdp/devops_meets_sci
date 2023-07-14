@@ -1,7 +1,6 @@
 FROM python:latest
 
-COPY . .
-
 WORKDIR /app
+COPY . .
 
 CMD ["/bin/bash"]
