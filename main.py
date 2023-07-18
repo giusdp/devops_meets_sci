@@ -1,3 +1,6 @@
+# Copyright (c) 2023 Giuseppe De Palma
+# All rights reserved.
+
 import short_url
 
 

@@ -1,3 +1,6 @@
+# Copyright (c) 2023 Giuseppe De Palma
+# All rights reserved.
+
 import unittest
 from main import short_url_encode
 import short_url
