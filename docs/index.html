@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My Project</title>
+</head>
+
+<body>
+    <h1>My Project</h1>
+
+    <h2>Shorten Url Service</h2>
+    <p>
+        The <code>main.py</code> file contains the <code>short_url_encode</code> function,
+        which takes a parameter <code>url</code> (either a string or an int) and outputs
+        the result of short_url.encode_url from the short_url library.
+    </p>
+    <p>
+        Short URL is a Python implementation for generating Tiny URL- and bit.ly-like URLs.
+    </p>
+
+    To use the function:
+    <pre><code>
+from main import short_url_encode
+
+short_url_encode(1234567890)
+short_url_encode('https://www.google.com')
+</code></pre>
+
+    <h3>Main</h3>
+    <p>
+        The <code>main.py</code> file serves as the entry point for the program. By calling
+        <code>python main.py</code> in the terminal, the program will prompt the user for the
+        input values and output the result.
+
+    </p>
+
+    <pre><code>
+python main.py
+  </code></pre>
+
+    <h3>Tests</h3>
+    <p>
+        The <code>tests/sort_url_encode.py</code> file contains the unit tests
+        for the project. To run the tests, run <code>python -m unittest tests/short_url_encode.py</code>
+        in the terminal.
+    </p>
+
+</body>
+
+</html>
