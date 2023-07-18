@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/666354216.svg)](https://zenodo.org/badge/latestdoi/666354216)
+
 # DevOps meets Scientific Research exam
 
 
