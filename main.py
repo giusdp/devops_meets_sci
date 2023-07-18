@@ -15,4 +15,4 @@ def short_url_encode(data):
 
 if __name__ == "__main__":
     url = input("Enter the URL: ")
-    short_url_encode(url)
+    print(short_url_encode(url))
